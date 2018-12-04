@@ -1,0 +1,6 @@
+nexus-2.14.11-01/
+*.tar.gz
+sonatype-work/
+**/target/*
+~
+
