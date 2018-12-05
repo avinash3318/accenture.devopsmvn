@@ -3,6 +3,7 @@ echo "[INFO] hostname is "
 hostname
 echo "[INFO] *****************"
 echo "[INFO] *****************"
+echo "[INFO] *****************"
 ls -ltr
 echo "[INFO] *****************"
 echo "[INFO] current user is"
