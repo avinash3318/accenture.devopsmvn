@@ -18,7 +18,7 @@
       <groupId>junit</groupId>
       <artifactId>sonar-maven-pluggin</artifactId>
       <version>3.8.1</version>
-      <type>test</scope>
+      <type>test</type>
     </dependency>
 
   </dependencies>
