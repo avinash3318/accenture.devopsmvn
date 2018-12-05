@@ -15,10 +15,10 @@
     </dependency>
 
     <dependency>
-      <groupId>junit</groupId>
+      <groupId>org.codehaus.mojo</groupId>
       <artifactId>sonar-maven-plugin</artifactId>
-      <version>3.8.1</version>
-      <type>test</type>
+      <version>3.5.0.1254</version>
+      <type>pom</type>
     </dependency>
 
   </dependencies>
