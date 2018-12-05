@@ -16,7 +16,7 @@
 
     <dependency>
       <groupId>junit</groupId>
-      <artifactId>sonar-maven-pluggin</artifactId>
+      <artifactId>sonar-maven-plugin</artifactId>
       <version>3.8.1</version>
       <type>test</type>
     </dependency>
